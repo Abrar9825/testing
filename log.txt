@@ -2,3 +2,4 @@
 [2024-12-19 21:25:46] Commit: Added files: , Deleted files: , Modified files: ./testing\1.py
 [2024-12-19 21:26:08] Commit: Added files: , Deleted files: , Modified files: ./testing\1.py
 [2024-12-19 21:27:31] Commit: Added files: , Deleted files: , Modified files: ./testing\1.py
+[2024-12-19 21:28:13] Commit: Added files: ./testing\.gitignore, Deleted files: , Modified files: 
