@@ -7,3 +7,5 @@ def sub():
 sub()
 
 print("How this is pooor")
+print("How this is pooor")
+print("How this is pooor")
