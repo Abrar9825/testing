@@ -3,4 +3,5 @@ def Add():
 
 Add()
 def sub():
-    print()
+    print(10-23)
+sub()
